@@ -1,0 +1,10 @@
+D:\Rep\Lesson_WF\bin\Debug\Lesson_WF.exe.config
+D:\Rep\Lesson_WF\bin\Debug\Lesson_WF.exe
+D:\Rep\Lesson_WF\bin\Debug\Lesson_WF.pdb
+D:\Rep\Lesson_WF\obj\Debug\Lesson_WF.csprojAssemblyReference.cache
+D:\Rep\Lesson_WF\obj\Debug\Lesson_WF.Form1.resources
+D:\Rep\Lesson_WF\obj\Debug\Lesson_WF.Properties.Resources.resources
+D:\Rep\Lesson_WF\obj\Debug\Lesson_WF.csproj.GenerateResource.cache
+D:\Rep\Lesson_WF\obj\Debug\Lesson_WF.csproj.CoreCompileInputs.cache
+D:\Rep\Lesson_WF\obj\Debug\Lesson_WF.exe
+D:\Rep\Lesson_WF\obj\Debug\Lesson_WF.pdb
